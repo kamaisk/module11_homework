@@ -1,0 +1,25 @@
+{
+  "name": "homework-module-11-unit-tests",
+  "version": "1.0.0",
+  "description": "write unit tests (minimum 3) for the function",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamaisk/module11_homework.git"
+  },
+  "author": "Iskandarova Kamilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamaisk/module11_homework/issues"
+  },
+  "homepage": "https://github.com/kamaisk/module11_homework#readme",
+  "devDependencies": {
+    "@babel/core": "^7.26.9",
+    "@babel/preset-env": "^7.26.9",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
